@@ -1,4 +1,4 @@
-var TwitchApi = require('../twitch-api');
+var TwitchApi = require('../twitch-api.js');
 var twitch = new TwitchApi({
     clientId: 'your client id',
     clientSecret: 'your client secret',
